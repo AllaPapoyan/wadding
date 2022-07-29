@@ -43,7 +43,7 @@ function App() {
         guitar acoustic bass macarena seat covers cake dessert embarrassing."  text3="Also, your presence is the only
          present we desire. No gift required." />
 
-         <Section2  icon={<FaReply />} text1="RSVP" text2="[Embed your RSVP form here]" text3=""/>
+         <Section2  icon={<FaReply />} text1="RSVP" text2="[Embed your RSVP form here]" text3="."/>
     </div>
   );
 }

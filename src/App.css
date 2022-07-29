@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Caveat', cursive;
+}
+
+.bg {
+  background-image: url(./img/01.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  font-family: 'Caveat', cursive;
+
+  height: 100vh;
+}
+
+.bg h1 {
+  font-size: 50px;
+  text-shadow: 0 0 15px black;
+  color: aliceblue;
+  font-weight: 200;
+}
+
+.bg h2 {
+  font-size: 30px;
+  text-shadow: 0 1px 15px black;
+  color: aliceblue;
+  font-weight: 100;
+
+}
+
+.section1 {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.section1 div{
+  width: 800px;
+}
+
+.section1 h2 {
+  padding: 80px 20px 40px;
+}
+
+.section1 p {
+  font-weight: 100;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 200;
+  margin: 20px;
+}
+
+.section2{
+  display: flex;
+  justify-content: center;
+}
+
+.detals{
+  align-items: center;
+  text-align: center;
+  margin: 40px;
+  width: 750px;
+  ;
+}
+
+
+
+.detals i{
+  font-size: 55px;
+  color: rgb(153, 152, 152);
+}
+
+.detals h3{
+  font-size: 16px;
+  color: rgb(92, 91, 91) ;
+}
+
+.detals p{
+  font-weight: 100;
+
+}
+.nkar{
+  width: 100%;
+}
+
